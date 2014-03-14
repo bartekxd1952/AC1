@@ -23,7 +23,7 @@ public class ArrayPhoneBook implements PhoneBookInterface {
 
 	@Override
 	public void delete(Contact c) {
-		// TODO Auto-generated method stub
+		c.id = 3; 
 
 	}
 
